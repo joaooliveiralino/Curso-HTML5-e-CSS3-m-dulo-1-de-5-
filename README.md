@@ -1,48 +1,57 @@
-💻 Curso de HTML5 e CSS3 - Módulo 1
-Repositório destinado aos desafios e exercícios práticos do Módulo 1 do curso de HTML5 e CSS3, ministrado pelo professor Gustavo Guanabara no canal Curso em Vídeo.
+📘 Curso HTML5 e CSS3 – Módulo 1
 
-📌 Sobre o Módulo
-Este primeiro módulo foca nas fundações da web, ensinando desde a história da internet até as primeiras marcações semânticas e estilização básica.
+Este repositório contém os exercícios, exemplos e anotações desenvolvidos durante o Módulo 1 (de 5) do Curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 
-Conteúdos abordados:
-História da Internet: Como tudo começou.
+🎯 Objetivo do Módulo
 
-Protocolos e Servidores: Como a web funciona por baixo dos panos.
+O Módulo 1 tem como foco introduzir os conceitos fundamentais do HTML5, preparando a base para a criação de páginas web estruturadas e semânticas.
 
-Anatomia de um documento: A estrutura básica do HTML5.
+Entre os principais temas abordados estão:
 
-Semântica: A importância de usar as tags corretas para acessibilidade e SEO.
+O que é HTML e CSS
 
-Textos e Imagens: Formatação, hierarquia de títulos e inclusão de mídias.
+Estrutura básica de um documento HTML
 
-Estilos Inline, Internos e Externos: Introdução ao CSS3.
+Tags principais
 
-🛠️ Tecnologias Utilizadas
-HTML5: Linguagem de marcação.
+Hierarquia de títulos
 
-CSS3: Estilização e layout.
+Parágrafos, quebras de linha e símbolos
 
-Visual Studio Code: Editor de código utilizado.
+Introdução à semântica no HTML5
 
-🚀 Desafios Realizados
-Durante este módulo, foram desenvolvidos diversos exercícios, incluindo:
+🗂️ Conteúdo do Repositório
 
-Desafio das Mensagens: Prática de quebra de linha e parágrafos.
+Arquivos .html criados durante as aulas
 
-Desafio das Imagens: Uso de favicons e imagens dinâmicas.
+Exercícios práticos propostos no curso
 
-Desafio do Mapa-múndi: Organização de imagens em uma grade lógica.
+Exemplos demonstrados pelo professor
 
-Projeto Cordel: (Ou o projeto final que você estiver fazendo neste módulo).
+Anotações pessoais para estudo e revisão
 
-🔗 Links Úteis
-📺 Canal Curso em Vídeo
+🚀 Tecnologias Utilizadas
 
-🌐 Site Oficial (Estudonauta)
+HTML5
 
-📚 Repositório Oficial do Curso
+Editor de código (ex: VS Code)
 
-👨‍💻 Autor
-Desenvolvido por [João Lucas De Oliveira Lino].
+📺 Curso e Canal
 
-"O conhecimento é a única coisa que ninguém pode tirar de você."
+Todo o conteúdo deste projeto é baseado no curso gratuito disponível no YouTube:
+
+🔗 Canal Curso em Vídeo
+https://www.youtube.com/@cursoemvideo
+
+🎓 Professor: Gustavo Guanabara
+
+📚 Status do Curso
+
+✅ Módulo 1 – Concluído
+
+⏳ Módulos 2 a 5 – Em andamento / a concluir
+
+📝 Observações
+
+Este repositório tem fins educacionais, sendo parte do meu processo de aprendizado em desenvolvimento web.
+Todo o crédito do conteúdo e da didática pertence ao Curso em Vídeo e ao professor Gustavo Guanabara.
