@@ -1,57 +1,66 @@
-📘 Curso HTML5 e CSS3 – Módulo 1
+# 📘 Curso HTML5 e CSS3 — Módulo 1
 
-Este repositório contém os exercícios, exemplos e anotações desenvolvidos durante o Módulo 1 (de 5) do Curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
+Este repositório contém os **exercícios, exemplos e anotações** desenvolvidos durante o **Módulo 1 (de 5)** do **Curso de HTML5 e CSS3**, oferecido gratuitamente pelo **Curso em Vídeo**.
 
-🎯 Objetivo do Módulo
+---
 
-O Módulo 1 tem como foco introduzir os conceitos fundamentais do HTML5, preparando a base para a criação de páginas web estruturadas e semânticas.
+## 🎯 Objetivo do Módulo
 
-Entre os principais temas abordados estão:
+O objetivo deste módulo é apresentar os **conceitos fundamentais do HTML5**, criando uma base sólida para o desenvolvimento de páginas web.
 
-O que é HTML e CSS
+### Conteúdos abordados:
+- O que é HTML e CSS
+- Estrutura básica de um documento HTML
+- Principais tags do HTML
+- Hierarquia de títulos (`h1` até `h6`)
+- Parágrafos e quebras de linha
+- Símbolos e emojis
+- Introdução à semântica no HTML5
 
-Estrutura básica de um documento HTML
+---
 
-Tags principais
+## 🗂️ Conteúdo do Repositório
 
-Hierarquia de títulos
+- Arquivos `.html` criados durante as aulas  
+- Exercícios práticos propostos no curso  
+- Exemplos demonstrados pelo professor  
+- Anotações pessoais para estudo e revisão  
 
-Parágrafos, quebras de linha e símbolos
+---
 
-Introdução à semântica no HTML5
+## 🚀 Tecnologias Utilizadas
 
-🗂️ Conteúdo do Repositório
+- **HTML5**
+- **Visual Studio Code** (ou outro editor de código)
 
-Arquivos .html criados durante as aulas
+---
 
-Exercícios práticos propostos no curso
+## 📺 Curso e Canal
 
-Exemplos demonstrados pelo professor
+Todo o conteúdo deste projeto é baseado no curso disponível no YouTube:
 
-Anotações pessoais para estudo e revisão
+- 🔗 **Canal Curso em Vídeo**  
+  https://www.youtube.com/@cursoemvideo  
 
-🚀 Tecnologias Utilizadas
+- 🎓 **Professor:** Gustavo Guanabara
 
-HTML5
+---
 
-Editor de código (ex: VS Code)
+## 📚 Status do Curso
 
-📺 Curso e Canal
+- ✅ Módulo 1 — Concluído  
+- ⏳ Módulos 2 a 5 — Em andamento
 
-Todo o conteúdo deste projeto é baseado no curso gratuito disponível no YouTube:
+---
 
-🔗 Canal Curso em Vídeo
-https://www.youtube.com/@cursoemvideo
+## 📝 Observações
 
-🎓 Professor: Gustavo Guanabara
+Este repositório tem **fins educacionais** e faz parte do meu processo de aprendizado em **desenvolvimento web**.
 
-📚 Status do Curso
+Todo o crédito do curso, conteúdo e metodologia pertence ao **Curso em Vídeo** e ao professor **Gustavo Guanabara**.
 
-✅ Módulo 1 – Concluído
+---
 
-⏳ Módulos 2 a 5 – Em andamento / a concluir
+## ⭐ Agradecimentos
 
-📝 Observações
-
-Este repositório tem fins educacionais, sendo parte do meu processo de aprendizado em desenvolvimento web.
-Todo o crédito do conteúdo e da didática pertence ao Curso em Vídeo e ao professor Gustavo Guanabara.
+Agradecimentos ao **Curso em Vídeo** por disponibilizar conteúdo gratuito e de alta qualidade para a comunidade.
