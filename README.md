@@ -31,7 +31,7 @@ O objetivo deste módulo é apresentar os **conceitos fundamentais do HTML5**, c
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
-- **Visual Studio Code** (ou outro editor de código)
+- **Visual Studio Code**
 
 ---
 
